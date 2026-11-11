@@ -1,5 +1,5 @@
-# 
-Sequence-Based Identification of First-Person Camera Wearers in Third-Person Views, CV4EDU workshop at CVPR 2026
+# Sequence-Based Identification of First-Person Camera Wearers in Third-Person Views
+CV4EDU workshop at CVPR 2026
 
 Dataset link: https://indiana-my.sharepoint.com/:f:/g/personal/zz47_iu_edu/IgA1pqxSUobQRJ2ayoFx3pn9Ac31ZVE-6uWPcBprbhCSr64?e=ybPNEA
 
